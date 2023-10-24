@@ -1,6 +1,6 @@
-import Footer from "./component/Footer";
-import Navbar from "./component/Navbar";
-import Products from "./component/Products";
+import Footer from "./component/Footer.jsx";
+import Navbar from "./component/Navbar.jsx";
+import Products from "./component/Products.jsx";
 
 function App() {
   return (
